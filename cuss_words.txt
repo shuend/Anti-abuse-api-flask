@@ -35,3 +35,4 @@ pendemi
 orimoto
 rika
 okkotsu
+yuta
