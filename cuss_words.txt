@@ -194,3 +194,4 @@ anjing
 goblok
 gblk
 keduakak
+ketigakak
